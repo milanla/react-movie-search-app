@@ -21,14 +21,6 @@ export default function SearchMovies() {
     }
   }
 
-  const CardList = ({movies}) => {
-    return (
-      <>
-        
-      </>
-    )
-  }
-
   return (
     <>
       <form className="form" onSubmit={searchMovies}>
